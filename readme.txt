@@ -1,4 +1,4 @@
-this arcitctura do you dont need add to www folder the files js, css and index.html all time build your project angular2, this do it automutclly, 
+this architecture do you dont need add to www folder the files js, css and index.html all time build your project angular2, this do it automutclly, 
 and include this file in project before publish.
 
 inatall:
